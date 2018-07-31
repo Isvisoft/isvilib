@@ -1,0 +1,28 @@
+{
+  "name": "isvilib",
+  "version": "0.1.5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/repo"
+  },
+  "author": {
+    "name": "Ismael Monje",
+    "email": "imonje@isvisoft.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "main": "isvilib.umd.js",
+  "module": "isvilib.js",
+  "jsnext:main": "isvilib.js",
+  "typings": "isvilib.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
