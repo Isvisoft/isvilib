@@ -1,18 +1,11 @@
-isvi-header {
+.toolbar-title {
+  font-size: 20em;
+  font-weight: 100;
+}
 
-  .toolbar-md-primary .toolbar-background-md {
-    background: linear-gradient(to bottom right, #464CB9, #363A90);
-  }
-
-  .toolbar-title {
-    font-size: 2em;
-    font-weight: 100;
-  }
-
-  ion-navbar ion-avatar img {
-    border-radius: 50%;
-    overflow: hidden;
-    width: 40px;
-    height: 40px;
-  }
+.img-header img {
+  border-radius: 50%;
+  overflow: hidden;
+  width: 40px;
+  height: 40px;
 }

@@ -1,9 +1,10 @@
 {
   "name": "isvilib",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/repo"
+    "url": "https://github.com/Isvisoft/isvilib.git"
+    
   },
   "author": {
     "name": "Ismael Monje",
@@ -14,7 +15,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/username/repo/issues"
+    "url": "https://github.com/Isvisoft/isvilib/issues"
   },
   "main": "isvilib.umd.js",
   "module": "isvilib.js",
