@@ -6,8 +6,8 @@ import { IonicImageLoader } from 'ionic-image-loader';
 import { IsviLoadingComponent } from './components/isvi-loading/isvi-loading';
 import { IsviHeaderComponent } from './components/isvi-header/isvi-header';
 
-// export * from './components/isvi-loading/isvi-loading';
-// export * from './components/isvi-header/isvi-header';
+export * from './components/isvi-loading/isvi-loading';
+export * from './components/isvi-header/isvi-header';
 
 
 
